@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "29DE0F80-66D2-4D25-AB48-A4C40C5D02A2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F96E6486-4672-47BA-99A7-D8DEE373CF3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T-mobileAssignment/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "downloadData(from:type:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F96E6486-4672-47BA-99A7-D8DEE373CF3C - 7bb5592b4ef814bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_mobileAssignment.NetworkManager.downloadData&lt;A where A: Swift.Decodable&gt;(from: Foundation.URL, type: A.Type, _: (A) -&gt; ()) -&gt; ()"
+                  moduleName = "T-mobileAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinverghese/Desktop/Xcode@MAC/T-mobileAssignment/T-mobileAssignment/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "187">
+               </Location>
+               <Location
+                  uuid = "F96E6486-4672-47BA-99A7-D8DEE373CF3C - a04a640edbac10e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in T_mobileAssignment.NetworkManager.downloadData&lt;A where A: Swift.Decodable&gt;(from: Foundation.URL, type: A.Type, _: (A) -&gt; ()) -&gt; ()"
+                  moduleName = "T-mobileAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinverghese/Desktop/Xcode@MAC/T-mobileAssignment/T-mobileAssignment/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "177">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "096143D5-6884-41F3-B582-0DD0B3C9CEDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T-mobileAssignment/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "downloadData(from:type:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45D6D091-8DD7-4A70-B3D9-9A95D988F600"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T-mobileAssignment/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "downloadData(from:type:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
